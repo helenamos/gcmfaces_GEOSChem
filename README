@@ -1,0 +1,8 @@
+Helen M. Amos
+amos@fas.harvard.edu
+Last updated: 07 Aug 2015
+
+This directory includes copies of the regridding
+scripts that remap deposition, concentrations, and evasion
+from the MITgcm and GEOS-Chem, so the two models can pass
+information back and forth. 
